@@ -1,2 +1,2 @@
 mock==2.0.0
-hypothesis==3.5.3
+hypothesis==6.0.4
